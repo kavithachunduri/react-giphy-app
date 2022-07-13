@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.input{
+  height:25px;
+}
+
+.div{
+  padding: 20px;
+}
+
+.button{
+height:50px;
+
+}
+
+.user{
+background-color: burlywood;
+height:130px;
+align-content: space-between;
+
+}
+
+
+.giphys{
+  background-color: ;
+  /* display: flex;
+  align-items: center;
+  margin-top: 30px;
+  padding: 20px;
+  align-content: center;
+  align-items: space-around; */
+}
+
+img{
+  padding: 5px;
+  border-radius:25px;
+  
+  border:5px solid #555
+}
